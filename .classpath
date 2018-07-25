@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Kubra/Desktop/jar/antlr4-runtime-4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kubra/Desktop/jar/args4j-2.0.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kubra/Desktop/jar/guava-21.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kubra/Desktop/jar/zemberek-all-0.11.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kubra/Desktop/jar/zemberek-az-2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kubra/Desktop/jar/zemberek-cekirdek-2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kubra/Desktop/jar/zemberek-demo-2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kubra/Desktop/jar/zemberek-tk-2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kubra/Desktop/jar/zemberek-tr-2.1.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
